@@ -1,2 +1,9 @@
 # quantum-computing-qiskit
-Quantum computing simulations implemented in Python using Qiskit and Jupyter Notebook.
+Quantum computing simulations using Python, Qiskit and Jupyter Notebook.
+
+## Contents
+
+- Quantum circuits and gates
+- Basic quantum algorithms
+- Simulation of quantum systems
+- Introduction to IBM Quantum Experience
